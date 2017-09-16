@@ -1,1 +1,2 @@
 This is a sample doc going to commit in new_branch_one git
+I am REPO_2
